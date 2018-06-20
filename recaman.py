@@ -1,7 +1,3 @@
-"""
-"""
-
-
 def get_recaman_seq(max_size=100):
 
     visited = {num: False for num in range(max_size**2)}
