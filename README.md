@@ -1,5 +1,5 @@
 # Recamán sequence plot
-A Python script to represent graphicallythe [Recamán sequence](http://mathworld.wolfram.com/RecamansSequence.html) in matplotlib.
+A Python script to represent graphically the [Recamán sequence](http://mathworld.wolfram.com/RecamansSequence.html) in matplotlib.
 
 ### Usage
 
